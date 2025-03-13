@@ -1,0 +1,6 @@
+Linear Kernel - Accuracy: 0.92
+Linear Kernel - AUC Score: 0.9820772058823529
+
+RBF Kernel - Best Gamma: 0.1
+RBF Kernel - Accuracy: 0.93
+RBF Kernel - AUC Score: 0.9738051470588235

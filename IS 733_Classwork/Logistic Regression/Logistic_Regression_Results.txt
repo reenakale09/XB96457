@@ -1,0 +1,4 @@
+Accuracy: 0.93
+AUC Score: 0.9761029411764706
+Intercept: -4.613738915956628
+Coefficients: [1.36542016 1.87797591]
